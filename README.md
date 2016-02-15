@@ -35,6 +35,8 @@ These are some of the larger events that occur in the area. For smaller meetup g
   - :round_pushpin: Madison
 - [Midwest Gaming Classic](https://www.midwestgamingclassic.com/)
   - :round_pushpin: Milwaukee
+- [Milwaukee Game Jam](https://www.eventbrite.com/e/milwaukee-game-jam-tickets-21320953546)
+  - :round_pushpin: Milwaukee
 
 
 ### Groups
